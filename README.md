@@ -4,5 +4,5 @@ edsfasfsa
 # myFirstRepo
 첫번째
 
-sfsdfsfdsf
-w423
+sdfasdfsd
+dsf
