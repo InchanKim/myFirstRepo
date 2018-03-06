@@ -1,4 +1,4 @@
-#1st commit
+# 1st commit
 # myFirstRepo
 첫번째
 
